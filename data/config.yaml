@@ -1,0 +1,8 @@
+path: "C:\Users\BERAT\Desktop\YOLOv8 Udemy\2_object_detection\data\brain_tumor_dataset"
+
+train: images/train # relative to path
+val: images/val # relative to path
+test: images/test # relative to path
+
+# Class Names
+names: ["Tumor"]
